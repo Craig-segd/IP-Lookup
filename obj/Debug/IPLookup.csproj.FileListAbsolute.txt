@@ -1,0 +1,17 @@
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\IPLookup.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Craig\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Craig\Desktop\IPLookup\IPLookup\bin\Debug\IPLookup.exe.config
+C:\Users\Craig\Desktop\IPLookup\IPLookup\bin\Debug\IPLookup.exe
+C:\Users\Craig\Desktop\IPLookup\IPLookup\bin\Debug\IPLookup.pdb
+C:\Users\Craig\Desktop\IPLookup\IPLookup\obj\Debug\IPLookup.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\IPLookup\IPLookup\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Craig\Desktop\IPLookup\IPLookup\obj\Debug\IPLookup.Properties.Resources.resources
+C:\Users\Craig\Desktop\IPLookup\IPLookup\obj\Debug\IPLookup.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\IPLookup\IPLookup\obj\Debug\IPLookup.exe
+C:\Users\Craig\Desktop\IPLookup\IPLookup\obj\Debug\IPLookup.pdb
